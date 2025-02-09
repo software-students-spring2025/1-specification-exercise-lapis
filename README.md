@@ -8,9 +8,9 @@ Yang Hu: [younghu312](https://github.com/younghu312)
 
 Zirui Han: [ZiruiHan](https://github.com/ZiruiHan)
 
-Zichao Jin:
+Zichao Jin: [ZichaoJin](https://github.com/ZichaoJin)
 
-Ziqi Huang:
+Ziqi Huang:[RyanH0417](https://github.com/RyanH0417)
 
 ## Stakeholders
 
