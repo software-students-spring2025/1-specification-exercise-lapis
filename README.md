@@ -13,12 +13,29 @@ Zichao Jin: [ZichaoJin](https://github.com/ZichaoJin)
 Ziqi Huang: [RyanH0417](https://github.com/RyanH0417)
 
 ## Stakeholders
+our stakeholder for the interview is a computer science student in NYU. He is about to graduate and is preparing for software development or data-related job interviews. He really need some help.
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+His Struggle:
+It is difficult to practice in a personalized manner for different positions or interview types, making it hard to quickly address weak areas.
+
+There is a lack of real-time, professional feedback, so he is unsure about the strengths and weaknesses of his responses.
+
+There is no readily available learning material or background information, causing significant time spent on research and organization.
+
+There is no systematic progress tracking or data visualization, making it difficult to measure improvement and maintain motivation.
+
+His goal:
+Automate resume parsing so that once a resume is uploaded, the system can automatically pick relevant interview questions for the user.
+
+Provide tailored interview questions based on the job description (JD), allowing more targeted practice.
+
+Support response formats like text, audio, video and simulate different interview scenarios like technical, behavioral, case studies.
+
+Store all practice answers and feedback, with charts and trend analysis to clearly show progress and maintain motivation.
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+we want an all-in-one interview preperation tool that automatically tailors questions to your resume and target role, gives you instant feedback in text, audio, or video, and tracks your progress—so you can focus on practicing your skills and landing the job you want.
 
 ## User Requirements
 
@@ -44,7 +61,8 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![Diagram1](./images/diagram1.png)
+![Diagram2](./images/diagram2.png)
 
 ## Clickable Prototype
 
