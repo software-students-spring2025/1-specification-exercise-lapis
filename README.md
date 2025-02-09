@@ -10,7 +10,7 @@ Zirui Han: [ZiruiHan](https://github.com/ZiruiHan)
 
 Zichao Jin: [ZichaoJin](https://github.com/ZichaoJin)
 
-Ziqi Huang:[RyanH0417](https://github.com/RyanH0417)
+Ziqi Huang: [RyanH0417](https://github.com/RyanH0417)
 
 ## Stakeholders
 
