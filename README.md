@@ -13,29 +13,29 @@ Zichao Jin: [ZichaoJin](https://github.com/ZichaoJin)
 Ziqi Huang: [RyanH0417](https://github.com/RyanH0417)
 
 ## Stakeholders
-our stakeholder for the interview is a computer science student in NYU. He is about to graduate and is preparing for software development or data-related job interviews. He really need some help.
+Our stakeholder is a senior computer science student at NYU who is about to graduate and is looking for a data science or software development type of job, but he is anxious and nervous about his upcoming interviews, so he thought it would be great if there was software that could help him. 
 
 His Struggle:
-It is difficult to practice in a personalized manner for different positions or interview types, making it hard to quickly address weak areas.
+Many of the interview questions on the Internet are very general and not broken down by specific positions or specializations, so it would be a waste of time to search for questions on the Internet.
 
-There is a lack of real-time, professional feedback, so he is unsure about the strengths and weaknesses of his responses.
+There is no feedback for practicing with the interview questions provided on the Internet, so it is difficult to tell if you have answered the questions well or poorly.
 
-There is no readily available learning material or background information, causing significant time spent on research and organization.
+Doing the questions on a web page often involves keyboarding the answers, which is very different from a real interview scenario (e.g., video interviews). Interview scenarios are very different from real interviews (e.g., video interviews or inperson), and after doing a lot of interview questions using text, you will still be nervous during video interviews.
 
-There is no systematic progress tracking or data visualization, making it difficult to measure improvement and maintain motivation.
+It is difficult to keep track of your own growth by searching for interview questions and answering them on a webpage, and thus you tend to lack motivation.
 
 His goal:
-Automate resume parsing so that once a resume is uploaded, the system can automatically pick relevant interview questions for the user.
+After uploading a resume, the system can filter the questions for the user to find the best match and fit.
 
-Provide tailored interview questions based on the job description (JD), allowing more targeted practice.
+The system can provide partial or small amount of hints when the interviewer is completely out of ideas.
 
-Support response formats like text, audio, video and simulate different interview scenarios like technical, behavioral, case studies.
+It would be better to have the option of text or video answers so that the interviewer can simulate real interview scenarios when needed, eliminating interview anxiety and nervousness when the time comes.
 
-Store all practice answers and feedback, with charts and trend analysis to clearly show progress and maintain motivation.
+Saving past answers and feedback and having a trend analysis so that one can compare current and previous answers to see how much one has improved specifically, and also see one's long term progress trend through the trend graph.
 
 ## Product Vision Statement
 
-we want an all-in-one interview preperation tool that automatically tailors questions to your resume and target role, gives you instant feedback in text, audio, or video, and tracks your progress—so you can focus on practicing your skills and landing the job you want.
+we want an all-in-one interview prep app that automatically create tailored questions to your resume and target role, gives you instant feedback in text, audio, or video, and tracks your progress.
 
 ## User Requirements
 
@@ -57,7 +57,7 @@ we want an all-in-one interview preperation tool that automatically tailors ques
 
 - As a job seeker, I want to experience different types of interview simulations in the system, like technical interviews, behavioral interviews, or case interviews. This will help me practice communication and problem-solving approaches for different formats before the real thing.
 
-- As a job seeker, I want to receive personalized suggestions from the system after some practice, like “You’ve improved a lot on algorithm questions—try more advanced ones” or “You’re missing concrete examples in behavioral interviews.” This will help me focus on areas that need more work.
+- As a job seeker, I want to receive personalized suggestions from the system after some practice, like “You’ve improved a lot on algorithm questions". This will help me focus on areas that need more work.
 
 ## Activity Diagrams
 
