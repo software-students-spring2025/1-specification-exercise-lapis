@@ -60,8 +60,9 @@ we want an all-in-one interview prep app that automatically create tailored ques
 - As a job seeker, I want to receive personalized suggestions from the system after some practice, like “You’ve improved a lot on algorithm questions". This will help me focus on areas that need more work.
 
 ## Activity Diagrams
-
+ As a job seeker, I want to paste the job description (including requirements and responsibilities) of my target role into the system, so it can generate tailored interview questions based on those needs. This way, I can practice more efficiently for that specific role.
 ![Diagram1](./images/diagram1.png)
+- As a job seeker, I want to experience different types of interview simulations in the system, like technical interviews, behavioral interviews, or case interviews. This will help me practice communication and problem-solving approaches for different formats before the real thing.
 ![Diagram2](./images/diagram2.png)
 
 ## Clickable Prototype
